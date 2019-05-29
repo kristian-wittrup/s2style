@@ -1,0 +1,16 @@
+
+#beardedpromo {
+	height:70px !important; 
+  width:70px !important; 
+  position: absolute !important;
+}
+
+#beardedpromo:hover {
+  transform: translateX(40px) !important;
+	
+}
+
+#beardedpromoimg {
+	
+	
+}
