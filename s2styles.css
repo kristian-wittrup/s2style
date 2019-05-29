@@ -1,8 +1,8 @@
 
 #beardedpromo {
-	height:70px; 
-  width:70px; 
-  position: absolute;
+	height:70px !important; 
+  width:70px !important; 
+  position: absolute !important;
 }
 
 #beardedpromo:hover {
